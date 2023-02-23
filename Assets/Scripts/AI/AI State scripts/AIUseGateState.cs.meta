@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb8a65b6844f0bb4891aa3d3717dd92a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aiScriptableData: {instanceID: 0}
+  - data: {fileID: 11400000, guid: 23cb014dfb19bd241b8c52c8c04dd27d, type: 2}
+  - aISelectGatePositionState: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
